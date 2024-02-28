@@ -38,12 +38,12 @@ The final deliverable was a set of interactive Power BI dashboards that offer a 
 • Visual representations of sales trends and comparisons with integrated budget figures
 
 <H3>Interactive Dashboard</H3>
-Experience the interactive dashboard here: [https://app.powerbi.com/view?r=eyJrIjoiYzE5NzRhMzAtOWY0ZC00NWNmLTg3ZDEtMzkxYjRhNTZiN2I4IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=ReportSection]
+Experience the <a href="https://app.powerbi.com/view?r=eyJrIjoiYzE5NzRhMzAtOWY0ZC00NWNmLTg3ZDEtMzkxYjRhNTZiN2I4IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=ReportSection"> interactive dashboard here</a>.
 
 <H2>Credits and Resources</H2>
 The links below provide access to the original data sources and learning materials used:
 
-• Microsoft AdventureWorks Sample Databases: [https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms]
+• Microsoft AdventureWorks Sample Databases: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 </br>
-• SQL and Power BI Learning Resources: [https://www.youtube.com/@iamaliahmad]
+• SQL and Power BI Learning Resources: https://www.youtube.com/@iamaliahmad
 
